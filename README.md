@@ -61,5 +61,3 @@ A pure C software rasterizer exploring the core graphics pipeline.
 - ✉️ [romainbou77@gmail.com](mailto:romainbou77@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/romain-bourgogne-1a8417266/)  
 - 🧑‍💻 [GitHub](https://github.com/Maisquasar)  
-
-⚡ _Always open to collaboration, engine deep dives, and innovative game ideas. Let’s build something epic!_  
